@@ -16,7 +16,7 @@ import SectionHeader from "@/components/ui/SectionHeader";
 import StatCard from "@/components/ui/StatCard";
 import DataCard from "@/components/ui/DataCard";
 import Faqs from "./Faqs";
-import HeroSection from "./Herosection";
+import HeroSection from "./HeroSection";
 
 const stats = [
   { icon: Users, value: "200+", label: "Active Volunteers" },
